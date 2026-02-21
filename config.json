@@ -1,0 +1,15 @@
+{
+  "name": "My Photo Gallery",
+  "title": "My Photo Gallery",
+  "description": "A beautiful photo gallery",
+  "url": "https://你的项目.pages.dev",
+  "accentColor": "#fb7185",
+  "author": {
+    "name": "Your Name",
+    "url": "https://your-website.com"
+  },
+  "social": {},
+  "map": ["maplibre"],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator"
+}
